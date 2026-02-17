@@ -14,7 +14,7 @@ This project demonstrates CSS 3D transforms, animations, and JavaScript logic wo
 
 ## 🌐 Live Demo
 
-👉 https://danish-devx.github.io/3D-Dice-Roller/
+👉 https://danish-devx.github.io/3D-Dice-Roller-Game/
 
 ---
 
